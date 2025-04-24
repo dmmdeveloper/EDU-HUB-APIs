@@ -7,6 +7,8 @@ Welcome to **EduHub**, a fully-featured REST API for an online learning platform
 ## 🌐 Project Overview
 EduHub is designed as a mega practice project for backend developers. It includes authentication, course management, enrollment, messaging, payments, and more.
 
+
+
 ---
 
 ## 🧑‍🎓 1️⃣ USERS
